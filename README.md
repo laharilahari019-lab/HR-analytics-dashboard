@@ -59,8 +59,8 @@ Monthly income was analyzed using column and bar charts. Salary distribution and
 * Performance Rating by Department – Column Chart
 * Salary Distribution – Column Chart
 * Salary by Department – Bar Chart
+<img width="1130" height="644" alt="Screenshot 2025-12-07 132452" src="https://github.com/user-attachments/assets/926be6dd-75c0-46a6-8f84-e3a1108db689" />
 
----
 
 6. KEY INSIGHTS
 
